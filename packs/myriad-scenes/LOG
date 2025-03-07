@@ -1,8 +1,15 @@
-2025/03/04-22:14:43.742838 7fa80e7fc6c0 Recovering log #4
-2025/03/04-22:14:44.053585 7fa80e7fc6c0 Delete type=3 #2
-2025/03/04-22:14:44.053682 7fa80e7fc6c0 Delete type=0 #4
-2025/03/04-22:19:31.255581 7fa2e23286c0 Level-0 table #9: started
-2025/03/04-22:19:31.255608 7fa2e23286c0 Level-0 table #9: 0 bytes OK
-2025/03/04-22:19:31.295381 7fa2e23286c0 Delete type=0 #7
-2025/03/04-22:19:31.338163 7fa2e23286c0 Manual compaction at level-0 from '!scenes!0HXqHAz1G0J0jrQQ' @ 72057594037927935 : 1 .. '!scenes.walls!t5n0lrkxo5lzbgBT.znAyMjyZUHBgt5Br' @ 0 : 0; will stop at (end)
-2025/03/04-22:19:31.401970 7fa2e23286c0 Manual compaction at level-1 from '!scenes!0HXqHAz1G0J0jrQQ' @ 72057594037927935 : 1 .. '!scenes.walls!t5n0lrkxo5lzbgBT.znAyMjyZUHBgt5Br' @ 0 : 0; will stop at (end)
+2025/03/06-19:59:52.312505 7fa80dffb6c0 Recovering log #12
+2025/03/06-19:59:52.586147 7fa80dffb6c0 Delete type=3 #10
+2025/03/06-19:59:52.586263 7fa80dffb6c0 Delete type=0 #12
+2025/03/06-20:04:46.188566 7fa2e23286c0 Level-0 table #18: started
+2025/03/06-20:04:46.262153 7fa2e23286c0 Level-0 table #18: 428920 bytes OK
+2025/03/06-20:04:46.315405 7fa2e23286c0 Delete type=0 #16
+2025/03/06-20:04:46.453773 7fa2e23286c0 Manual compaction at level-0 from '!scenes!0HXqHAz1G0J0jrQQ' @ 72057594037927935 : 1 .. '!scenes.walls!t5n0lrkxo5lzbgBT.znAyMjyZUHBgt5Br' @ 0 : 0; will stop at (end)
+2025/03/06-20:04:46.453880 7fa2e23286c0 Manual compaction at level-1 from '!scenes!0HXqHAz1G0J0jrQQ' @ 72057594037927935 : 1 .. '!scenes.walls!t5n0lrkxo5lzbgBT.znAyMjyZUHBgt5Br' @ 0 : 0; will stop at '!scenes.walls!pYsyvK5JrpRrg1pD.zsCFUY1DHu5sm25z' @ 7603 : 0
+2025/03/06-20:04:46.453894 7fa2e23286c0 Compacting 1@1 + 1@2 files
+2025/03/06-20:04:46.528137 7fa2e23286c0 Generated table #19@1: 6617 keys, 2025249 bytes
+2025/03/06-20:04:46.528180 7fa2e23286c0 Compacted 1@1 + 1@2 files => 2025249 bytes
+2025/03/06-20:04:46.581177 7fa2e23286c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/06-20:04:46.581389 7fa2e23286c0 Delete type=2 #14
+2025/03/06-20:04:46.581874 7fa2e23286c0 Delete type=2 #18
+2025/03/06-20:04:46.634643 7fa2e23286c0 Manual compaction at level-1 from '!scenes.walls!pYsyvK5JrpRrg1pD.zsCFUY1DHu5sm25z' @ 7603 : 0 .. '!scenes.walls!t5n0lrkxo5lzbgBT.znAyMjyZUHBgt5Br' @ 0 : 0; will stop at (end)
