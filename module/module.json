@@ -3,7 +3,11 @@
   "title": "myriad",
   "version": "1.1.0",
   "manifest": "https://github.com/Bremelin/myriad/releases/latest/download/module.json",
+<<<<<<< HEAD
   "download": "https://github.com/Bremelin/myriad/releases/download/1.1.0/module.zip",
+=======
+  "download": "https://github.com/Bremelin/myriad/releases/download/1.0.9/module.zip",
+>>>>>>> 2017ae97804022f26f4fe5953177fca95d44868a
   "compatibility": {
     "minimum": "12",
     "verified": "12"
