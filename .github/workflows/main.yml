@@ -43,7 +43,8 @@ jobs:
 
       - name: Create System Archive
         run: |
-          zip                          ./module.zip             module.json                         
+          zip         --recurse-paths            ./module.zip             
+          module.json                         
 
       - name: Update Release With Files
         id: create_version_release
