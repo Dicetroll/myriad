@@ -1,9 +1,9 @@
 {
   "id": "myriad",
   "title": "myriad",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "manifest": "https://github.com/Bremelin/myriad/releases/latest/download/module.json",
-  "download": "https://github.com/Bremelin/myriad/releases/download/1.0.8/module.zip",
+  "download": "https://github.com/Bremelin/myriad/releases/download/1.0.9/module.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
