@@ -34,7 +34,7 @@ jobs:
 
       - name: Create System Archive
         run: |
-          zip             --recurse-paths              ./module.zip             module.json             myriad/                      
+          zip             --recurse-paths              ./module.zip             module.json            assets/           module/assets/scenes        module/packs            module/module.json       module.json         packs                   
       - name: Update Release With Files
         id: create_version_release
         uses: ncipollo/release-action@v1
